@@ -1,0 +1,37 @@
+.about{
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.about .left{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+.about .left h1{
+    color: #ffbb00;
+}
+.about .left p{
+    margin: 1.2rem 0;
+}
+
+.about .right{
+    max-width: 700px;
+}
+
+.right .img-container{
+    display: grid;
+    position: center;
+    text-align: center;
+}
+
+.right .img{
+    max-width: 90%;
+    border: 1px solid #333;
+}
