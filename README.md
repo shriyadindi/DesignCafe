@@ -1,3 +1,7 @@
+
+![designCafe ss](https://github.com/shriyadindi/DesignCafe/assets/126611334/3653f358-c4b9-4027-8586-846f89dc0e8f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
