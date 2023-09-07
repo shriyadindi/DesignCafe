@@ -1,6 +1,5 @@
 
-![designCafe ss](https://github.com/shriyadindi/DesignCafe/assets/126611334/3653f358-c4b9-4027-8586-846f89dc0e8f)
-
+![image](https://github.com/shriyadindi/DesignCafe/assets/126611334/ee1992f0-2caa-4b5f-a314-2a45720a1b2f)
 
 # Getting Started with Create React App
 
